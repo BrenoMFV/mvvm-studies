@@ -1,6 +1,7 @@
-# superheroapp
+# superheroapp tutorial
 
-Sandbox para estudar error handling de requisões http
+Sandbox para estudar error handling de requisões http com Stacked Architecture (MVVM)
+
 
 ## fonte
 
