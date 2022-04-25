@@ -1,11 +1,7 @@
 # superheroapp
 
-Sandbox para estudar erros em HTTP
+Sandbox para estudar error handling de requisões http
 
-## pacote
-
-> http: ^0.13.4
-
-## fontes
+## fonte
 
 https://blog.logrocket.com/handling-network-connectivity-flutter/
